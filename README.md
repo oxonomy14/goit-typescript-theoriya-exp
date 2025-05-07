@@ -1,1 +1,0 @@
-# goit-typescript-theoriya-exp
